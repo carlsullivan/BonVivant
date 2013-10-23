@@ -1,12 +1,13 @@
 body {
-	font-family: Georgia;, serif;
+	font-family: Georgia, serif;
 	font-weight: 300;
-	font-size: 15px
+	font-size: 15px;
 	background-color: #dfdfd6;
 	padding:100px;
 	color:#355465;
 	background-image: url(images/pattern.jpg);
 	text-align: justify;
+
 }
 
 	
@@ -231,48 +232,6 @@ img.big-image{
 	margin-bottom:0px;
 }
 
-#photo-corner1{
-	width: 40px;
-	position: relative;
-	top: 36px;
-	left: -3px;
-	margin-top:-30px;
-}
-
-#photo-corner2{
-	width: 40px;
-	position: relative;
-	top: 36px;
-	left: 3px;
-	float:right;
-	margin-top:-30px;
-	-webkit-transform:rotate(90deg);
-	-moz-transform:rotate(90deg);
-	transform:rotate(90deg);
-}
-
-#photo-corner3{
-	width: 40px;
-	position: relative;
-	top: -36px;
-	left: -3px;
-	margin-bottom:-10px;
-	-webkit-transform:rotate(-90deg);
-	-moz-transform:rotate(-90deg);
-	transform:rotate(-90deg);
-}
-
-#photo-corner4{
-	width: 40px;
-	position: relative;
-	top: -36px;
-	left: 3px;
-	float:right;
-	margin-bottom:-10px;
-	-webkit-transform:rotate(180deg);
-	-moz-transform:rotate(180deg);
-	transform:rotate(180deg);
-}
 
 #pgraph{
 	padding-top: 20px;
