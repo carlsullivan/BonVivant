@@ -44,10 +44,6 @@ h2 {
 	color: #0d9d87;
 	}
 	
-/*-------------Jessica's Typographic Awesomeness (plus some other stuff)--------------*/
-
-
-/*-------------step1--------------*/
 
 body{
 	font-family: Georgia, serif;
@@ -56,8 +52,6 @@ body{
 	width:700px;
 	margin:0px auto;
 }
-
-/*-------------step2--------------*/
 
 ul{
 	list-style:none;
@@ -68,14 +62,13 @@ ul li{
 	margin-bottom:25px;
 }
 
-img{max-width:100%;}
+img
+{max-width:100%;
+}
 
-
-/*-------------step3--------------*/
-
-.ornament{color:#901b2e;}
-
-/*-------------step4--------------*/
+.ornament{
+	color:#901b2e;
+}
 
 .with{
 	font-style:italic;
@@ -83,8 +76,6 @@ img{max-width:100%;}
 	color: #a7b5bc;
 	display:block;
 }
-
-/*-------------step5--------------*/
 
 ul{
 	text-align:center;
@@ -133,9 +124,6 @@ h4{
 	margin-bottom:0px;
 }
 
-/*-------------step6--------------*/
-
-
 h1#name{
 	font-weight:normal;
 	letter-spacing:1px;
@@ -167,8 +155,6 @@ h3.menu-section{
 	margin-top:0px;	
 }
 
-/*-------------step7--------------*/
-
 .run-in{
 	font-size:14px;
 	letter-spacing:3px;
@@ -188,8 +174,6 @@ p#address{
 	margin-top:-10px;
 }
 
-/*-------------step8--------------*/
-
 .dropcap{
 	font-size:72px;
 	font-family: Georgia, serif;
@@ -205,16 +189,12 @@ img.big-image{
 	margin-bottom:20px;
 }
 
-/*-------------step9--------------*/
-
 #menu{
 	background-color:#fff;
 	padding:10px 40px;
 	font-size:15px;
 	border:10px solid #a7b5bc;
 }
-
-/*-------------step10--------------*/
 
 #menu-board{
 	padding: 50px 100px;
@@ -225,12 +205,9 @@ img.big-image{
 	line-height:18px;
 }
 
-/*-------------step11--------------*/
-
 img.big-image{
 	margin-bottom:0px;
 }
-
 
 #pgraph{
 	padding-top: 20px;
@@ -238,4 +215,10 @@ img.big-image{
 
 .border-image{
 	padding-top: -50px;
+}
+
+#name {
+	border-bottom: 4px double #355465;
+	margin-top: 40px;
+	padding-bottom: 8px;
 }
