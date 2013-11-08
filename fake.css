@@ -1,5 +1,5 @@
 body {
-	font-family: Georgia, serif;
+	font-family: Adobe Garamond, Georgia, serif;
 	font-weight: 300;
 	font-size: 15px;
 	background-color: #dfdfd6;
@@ -38,7 +38,7 @@ h2 {
 #name {
 	color: #132630;
 	padding-bottom: -100px;
-	}
+}
 	
 #name.price {
 	color: #0d9d87;
