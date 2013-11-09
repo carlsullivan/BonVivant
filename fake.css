@@ -4,20 +4,20 @@ body {
 	font-size: 15px;
 	background-color: #dfdfd6;
 	padding:100px;
-	color:#355465;
-	background-image: url("images/patterns6.jpg");
+	color:#F5F5F5;
+	background-image: url("images/patterns9.jpg");
 	text-align: justify;
 
 }
 
 	
 a { 
-	color: #612c2c; 
+	color: #87CEEB; 
 	text-decoration: none; 
 	}
 	
 a:hover { 
-	color: #b23c3c; 
+	color: #FFA500; 
 	}
 
 h2 { 
@@ -36,7 +36,7 @@ h2 {
 	}
 	
 #name {
-	color: #132630;
+	color: #F5F5F5;
 	padding-bottom: -100px;
 }
 	
@@ -67,13 +67,13 @@ img
 }
 
 .ornament{
-	color:#901b2e;
+	color:#87CEEB;
 }
 
 .with{
 	font-style:italic;
 	font-size:15px;
-	color: #a7b5bc;
+	color: #4d4d4d;
 	display:block;
 }
 
@@ -141,7 +141,8 @@ h2.sub-title{
 	font-style:normal;
 	text-align:left;
 	margin-top:0px;
-	color:#a7b5bc;
+	color:#e6e6e6;
+	font-style:italic;
 }
 
 h3.menu-section{
@@ -194,6 +195,7 @@ img.big-image{
 	padding:10px 40px;
 	font-size:15px;
 	border:10px solid #a7b5bc;
+
 }
 
 #menu-board{
@@ -221,4 +223,8 @@ img.big-image{
 	border-bottom: 4px double #355465;
 	margin-top: 40px;
 	padding-bottom: 8px;
+}
+
+#list { 
+	color:#000;
 }
